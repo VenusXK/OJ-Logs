@@ -11,6 +11,11 @@
 | ----------- | ----------- |
 |1 <br> ABCD EFGH even <br> ABCI EFJK up<br> ABIJ EFGH even      | K is the counterfeit coin and it is light.       |
 
+### 实现结果
+<div align=center>
+<img decoding="async" src="./result.png" width="100%" >
+</div>
+
 ### 实现
 ```c
 #include <stdio.h>
