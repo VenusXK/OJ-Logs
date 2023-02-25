@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677323534 source:d:\project\cproject\enumerate\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
