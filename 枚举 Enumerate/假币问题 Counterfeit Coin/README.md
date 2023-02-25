@@ -7,9 +7,16 @@
 ### 输出
 输出哪一个标号的银币是假币，并说明它比真币轻还是重(heavy or light)。
 ### 要求
-| 输入      | 结果 |
-| ----------- | ----------- |
-|1 <br> ABCD EFGH even <br> ABCI EFJK up<br> ABIJ EFGH even      | K is the counterfeit coin and it is light.       |
+<table>
+<tr>
+<td>输入</td>
+<td>结果</td>
+</tr>
+<tr>
+<td>1 <br> ABCD EFGH even <br> ABCI EFJK up<br> ABIJ EFGH even</td>
+<td> K is the counterfeit coin and it is light.</td>
+</tr>
+</table>
 
 ### 实现结果
 <div align=center>
