@@ -19,8 +19,8 @@
 </table>
 
 ### 实现结果
-<div align=center>
-<img decoding="async" src="./result.png" width="100%" >
+<div align=left>
+<img decoding="async" src="./result.png" width="80%" >
 </div>
 
 ### 实现
